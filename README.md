@@ -124,6 +124,15 @@ Below is an image showcasing the ChatX interface:
 
 ![Screenshot (60)](https://github.com/user-attachments/assets/26583d4a-c019-4cdb-98e4-355c94dc5649)
 
+## Improvements Needed / Future Enhancements
+
+- **Email Verification:** Implement a secure email verification process during user registration.
+- **Enhanced Error Handling:** Improve error feedback on both the client and server sides.
+- **UI/UX Upgrades:** Refine the user interface based on user feedback.
+- **Additional Features:** Consider adding file sharing, emoji support, and real-time notifications.
+- **Security Improvements:** Further audit and enhance authentication and data security.
+- **Testing:** Increase test coverage with both unit and integration tests.
+- 
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
