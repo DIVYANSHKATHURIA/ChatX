@@ -1,6 +1,9 @@
 # ChatX
 
-ChatX is a real-time chat application that enables seamless communication between users. The project is composed of a backend server running on **port 5000**, a frontend client running on **port 3000**, and a locally hosted **MongoDB** instance on **port 27017**. Additionally, ChatX integrates with the Groq API—make sure to replace the placeholder with your own Groq API key in the frontend.
+ChatX is a real-time chat application that enables seamless communication between users. The project is composed of a backend server running on **port 5000**, a frontend client running on **port 3000**, and a locally hosted **MongoDB** instance on **port 27017**. Additionally, ChatX integrates with the Groq API—make sure to replace the placeholder with your own Groq API key in the frontent.
+
+## Future Deployment
+Currently, ChatX is being developed locally. Deployment is planned for the future after completing some improvements and fixes.
 
 [ChatX Interface](https://github.com/user-attachments/assets/572a2dea-5661-47ff-933e-e2d7adc28c0a)
 
